@@ -6,3 +6,7 @@
 def same(number1: int, number2: int):
     return number1 == number2
 ```
+## To Do List
+- [ ] Do all activities
+- [ ] Commit changes to main
+- [ ] Inactivate actions
